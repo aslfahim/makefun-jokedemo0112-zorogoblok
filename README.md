@@ -1,6 +1,8 @@
 # the-joke-about-the-demo — @zorogoblok
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112)
+[![make.fun](https://make.fun/badge/the-joke-about-the-demo-20261123-0112.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112)
+[![rank](https://make.fun/badge/the-joke-about-the-demo-20261123-0112/aslfahim/makefun-jokedemo0112-zorogoblok/rank.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112)
+[![reward](https://make.fun/badge/the-joke-about-the-demo-20261123-0112/aslfahim/makefun-jokedemo0112-zorogoblok/reward.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112)
 
 Entry for the make.fun bounty [The joke about the demo](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112).
 
